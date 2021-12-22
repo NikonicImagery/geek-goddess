@@ -1,3 +1,4 @@
+![IMG_0330](https://user-images.githubusercontent.com/6634714/147137841-427408e5-8dc7-4c5f-a0a7-c11dbd126782.JPG)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/NikonicImagery/geek-goddess/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
